@@ -1,7 +1,5 @@
 # estudos_JQuery
 
-Claro, vou explicar as funcionalidades da página com base no código que você enviou:
-
 1. **Título e Botão "Nova Imagem +"**:
    - O título "Galeria de fotos" é exibido no cabeçalho da página.
    - Ao clicar no botão "Nova Imagem +", o formulário para adicionar uma nova imagem é exibido, pois é atribuída a ele a ação `$('form').slideDown();`.
